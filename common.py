@@ -5,7 +5,8 @@ import datetime
 
 
 def get_current_time():
-    return datetime.datetime.now()
+    #return datetime.datetime.now().isoformat()
+    return 'dummy time'
 
 def generate_next_msg_id():
     if 'current' not in generate_next_msg_id.__dict__:
