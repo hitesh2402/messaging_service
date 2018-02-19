@@ -18,8 +18,8 @@ message till it is delivered.
 2) Execute ./client.py $SERVER_ADDRESS $SERVER_PORT
 3) Server askes to ener your name
    Name entered by client is used as identifier by the client
-4) ** Sending message ** to single user for eg Alice is sending a message to Bob. Message is seperated from recipient using colon(":")
+4) * Sending message * to single user for eg Alice is sending a message to Bob. Message is seperated from recipient using colon(":")
   Bob:It is a message from Alice
   
-5)  ** Sending message to multiple ** receipients
+5)  * Sending message to multiple * receipients
   Bob,Charlie: Message sent to multiple users.
